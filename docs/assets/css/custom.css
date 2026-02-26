@@ -212,6 +212,10 @@
   display: block;
 }
 
+.hdrl-feature > p:first-child {
+  margin: 0;
+}
+
 .hdrl-feature h3 {
   margin: 0 0 0.4rem !important;
   font-size: 0.95rem !important;

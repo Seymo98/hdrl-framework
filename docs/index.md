@@ -149,26 +149,38 @@ HDRL serves different needs for different audiences
 
 </div>
 
-<div class="hdrl-audience">
+<div class="hdrl-audience" markdown>
 
-<div class="hdrl-audience-card">
-  <h4>:material-bank: Policy Makers</h4>
-  <p>Pinpoints exactly where investment is needed — legislation vs compute vs workforce</p>
+<div class="hdrl-audience-card" markdown>
+
+#### :material-bank: Policy Makers
+
+Pinpoints exactly where investment is needed — legislation vs compute vs workforce
+
 </div>
 
-<div class="hdrl-audience-card">
-  <h4>:material-microscope: Research Services</h4>
-  <p>A clear "Licence to Operate" checklist and improvement roadmap</p>
+<div class="hdrl-audience-card" markdown>
+
+#### :material-microscope: Research Services
+
+A clear "Licence to Operate" checklist and improvement roadmap
+
 </div>
 
-<div class="hdrl-audience-card">
-  <h4>:material-office-building: Industry</h4>
-  <p>Guarantees that a "Level 4" partner delivers predictability and speed</p>
+<div class="hdrl-audience-card" markdown>
+
+#### :material-office-building: Industry
+
+Guarantees that a "Level 4" partner delivers predictability and speed
+
 </div>
 
-<div class="hdrl-audience-card">
-  <h4>:material-cash-multiple: Funders</h4>
-  <p>Evidence-based framework for allocation decisions across the 3-year cycle</p>
+<div class="hdrl-audience-card" markdown>
+
+#### :material-cash-multiple: Funders
+
+Evidence-based framework for allocation decisions across the 3-year cycle
+
 </div>
 
 </div>
@@ -181,42 +193,66 @@ HDRL serves different needs for different audiences
 
 </div>
 
-<div class="hdrl-features">
+<div class="hdrl-features" markdown>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-book-open-variant:</span>
-  <h3>Scientifically Rigorous</h3>
-  <p>Synthesised from 56 global frameworks including WHO, OECD, FAIR, and CMMI</p>
+<div class="hdrl-feature" markdown>
+
+:material-book-open-variant:{ .feature-icon }
+
+### Scientifically Rigorous
+
+Synthesised from 56 global frameworks including WHO, OECD, FAIR, and CMMI
+
 </div>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-map-marker-path:</span>
-  <h3>Roadmap-Based</h3>
-  <p>Not a pass/fail audit — a guide for investment and growth over time</p>
+<div class="hdrl-feature" markdown>
+
+:material-map-marker-path:{ .feature-icon }
+
+### Roadmap-Based
+
+Not a pass/fail audit — a guide for investment and growth over time
+
 </div>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-target:</span>
-  <h3>Outcome-Focused</h3>
-  <p>Measures if you can deliver, not just if you have a policy document</p>
+<div class="hdrl-feature" markdown>
+
+:material-target:{ .feature-icon }
+
+### Outcome-Focused
+
+Measures if you can deliver, not just if you have a policy document
+
 </div>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-earth:</span>
-  <h3>UK-Wide</h3>
-  <p>Designed for the devolved nations with cross-border considerations built in</p>
+<div class="hdrl-feature" markdown>
+
+:material-earth:{ .feature-icon }
+
+### UK-Wide
+
+Designed for the devolved nations with cross-border considerations built in
+
 </div>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-puzzle:</span>
-  <h3>Modular</h3>
-  <p>Baseline Core, Capability modules, and Optional indicators for flexible assessment</p>
+<div class="hdrl-feature" markdown>
+
+:material-puzzle:{ .feature-icon }
+
+### Modular
+
+Baseline Core, Capability modules, and Optional indicators for flexible assessment
+
 </div>
 
-<div class="hdrl-feature">
-  <span class="feature-icon">:material-shield-check:</span>
-  <h3>Hard Controls</h3>
-  <p>Five non-negotiable indicators that gate baseline participation</p>
+<div class="hdrl-feature" markdown>
+
+:material-shield-check:{ .feature-icon }
+
+### Hard Controls
+
+Five non-negotiable indicators that gate baseline participation
+
 </div>
 
 </div>
