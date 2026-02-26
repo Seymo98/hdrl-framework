@@ -18,7 +18,7 @@ The **UK Health Data Assistant** is a companion tool that provides:
 
 The app is maintained in a separate repository and deployed via Streamlit Cloud.
 
-[:material-open-in-new: Launch the Assessment App](https://github.com/Seymo98/uk-health-data-assistant){ .md-button .md-button--primary target="_blank" }
+[:material-open-in-new: Launch the Assessment App](https://uk-health-data-assistant-8u35smuwsck8podxzu7qfb.streamlit.app/){ .md-button .md-button--primary target="_blank" }
 
 [:material-github: View Source on GitHub](https://github.com/Seymo98/uk-health-data-assistant){ .md-button target="_blank" }
 
