@@ -206,10 +206,20 @@
   border: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.hdrl-feature .feature-icon {
-  font-size: 1.8rem;
+svg.feature-icon {
+  width: 2rem;
+  height: 2rem;
   margin-bottom: 0.5rem;
   display: block;
+  fill: var(--md-primary-fg-color);
+}
+
+.hdrl-audience-card svg.icon-inline {
+  width: 1.1em;
+  height: 1.1em;
+  display: inline-block;
+  vertical-align: -0.15em;
+  fill: currentColor;
 }
 
 .hdrl-feature > p:first-child {
