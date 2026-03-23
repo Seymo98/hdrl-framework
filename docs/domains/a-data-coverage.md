@@ -1,7 +1,5 @@
 # Domain A: Data Coverage & Federation
 
-<span class="domain-ref" style="color: #3b82f6;">THE ASSET INVENTORY</span>
-
 **Focus:** Availability, linkage, and flow of health data for research
 
 **Indicators:** 10 (8 Core, 2 Enhancement)
