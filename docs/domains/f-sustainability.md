@@ -1,7 +1,5 @@
 # Domain F: Sustainability
 
-<span class="domain-ref" style="color: #f59e0b;">BUSINESS MODEL</span>
-
 **Focus:** Financial sustainability and economic contribution
 
 **Indicators:** 6 (2 Core, 4 Enhancement)
