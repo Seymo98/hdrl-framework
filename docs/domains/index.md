@@ -6,14 +6,14 @@ The HDRL Framework organises health data readiness into **eight domains**, each 
 
 | Ref | Domain | Business Value | Indicators |
 |:----|:-------|:---------------|:----------:|
-| **[A](a-data-coverage.md)** | Data Coverage & Federation | The Asset Inventory | 10 |
-| **[B](b-data-semantics.md)** | Data Semantics & Quality | Product Usability | 6 |
-| **[C](c-governance-access.md)** | Governance & Access | Speed to Market | 11 |
-| **[D](d-research-integration.md)** | Research Integration & Market | Customer Success | 8 |
-| **[E](e-public-trust.md)** | Public Trust & Transparency | Social Licence | 7 |
-| **[F](f-sustainability.md)** | Sustainability | Business Model | 6 |
-| **[G](g-workforce-culture.md)** | Workforce & Culture | Talent Pipeline | 7 |
-| **[H](h-infrastructure.md)** | Infrastructure & Compute | The Engine Room | 9 |
+| **[A](a-data-coverage.md)** | Data Coverage & Federation | Do we have the data researchers want? | 10 |
+| **[B](b-data-semantics.md)** | Data Semantics & Quality | Is the data messy or ready-to-use? | 6 |
+| **[C](c-governance-access.md)** | Governance & Access | How fast can we approve safe research? | 11 |
+| **[D](d-research-integration.md)** | Research Integration & Market | Are people actually using the service? | 8 |
+| **[E](e-public-trust.md)** | Public Trust & Transparency | Will the public let us operate? | 7 |
+| **[F](f-sustainability.md)** | Sustainability | Can we pay the bills? | 6 |
+| **[G](g-workforce-culture.md)** | Workforce & Culture | Do we have the people to run this? | 7 |
+| **[H](h-infrastructure.md)** | Infrastructure & Compute | Is our tech safe and scalable? | 9 |
 
 **Total: 64 indicators** (43 Core, 21 Enhancement)
 
