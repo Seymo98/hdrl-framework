@@ -90,50 +90,50 @@ Each domain answers a critical question about organisational readiness
 
 <a href="domains/a-data-coverage/" class="hdrl-domain-card domain-a">
   <span class="domain-ref">Domain A</span>
-  <h3>The Asset Inventory</h3>
-  <p>Data Coverage &amp; Federation — Do we have the data researchers want?</p>
+  <h3>Data Coverage &amp; Federation</h3>
+  <p>Do we have the data researchers want?</p>
 </a>
 
 <a href="domains/b-data-semantics/" class="hdrl-domain-card domain-b">
   <span class="domain-ref">Domain B</span>
-  <h3>Product Usability</h3>
-  <p>Semantics &amp; Quality — Is the data messy or ready-to-use?</p>
+  <h3>Data Semantics &amp; Quality</h3>
+  <p>Is the data messy or ready-to-use?</p>
 </a>
 
 <a href="domains/c-governance-access/" class="hdrl-domain-card domain-c">
   <span class="domain-ref">Domain C</span>
-  <h3>Speed to Market</h3>
-  <p>Governance &amp; Access — How fast can we approve safe research?</p>
+  <h3>Governance &amp; Access</h3>
+  <p>How fast can we approve safe research?</p>
 </a>
 
 <a href="domains/d-research-integration/" class="hdrl-domain-card domain-d">
   <span class="domain-ref">Domain D</span>
-  <h3>Customer Success</h3>
-  <p>Research Integration — Are people actually using the service?</p>
+  <h3>Research Integration</h3>
+  <p>Are people actually using the service?</p>
 </a>
 
 <a href="domains/e-public-trust/" class="hdrl-domain-card domain-e">
   <span class="domain-ref">Domain E</span>
-  <h3>Social Licence</h3>
-  <p>Public Trust — Will the public let us operate?</p>
+  <h3>Public Trust</h3>
+  <p>Will the public let us operate?</p>
 </a>
 
 <a href="domains/f-sustainability/" class="hdrl-domain-card domain-f">
   <span class="domain-ref">Domain F</span>
-  <h3>Business Model</h3>
-  <p>Sustainability — Can we pay the bills?</p>
+  <h3>Sustainability</h3>
+  <p>Can we pay the bills?</p>
 </a>
 
 <a href="domains/g-workforce-culture/" class="hdrl-domain-card domain-g">
   <span class="domain-ref">Domain G</span>
-  <h3>Talent Pipeline</h3>
-  <p>Workforce &amp; Culture — Do we have the people to run this?</p>
+  <h3>Workforce &amp; Culture</h3>
+  <p>Do we have the people to run this?</p>
 </a>
 
 <a href="domains/h-infrastructure/" class="hdrl-domain-card domain-h">
   <span class="domain-ref">Domain H</span>
-  <h3>The Engine Room</h3>
-  <p>Infrastructure &amp; Compute — Is our tech safe and scalable?</p>
+  <h3>Infrastructure &amp; Compute</h3>
+  <p>Is our tech safe and scalable?</p>
 </a>
 
 </div>
