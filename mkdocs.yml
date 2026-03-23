@@ -66,7 +66,7 @@ extra:
 extra_css:
   - assets/css/custom.css
 
-copyright: HDRL Framework v1.0 &mdash; January 2026
+copyright: HDRL Framework v1.0 — Developed by OPL Advisory Ltd - 2026
 
 nav:
   - Home: index.md
