@@ -1,7 +1,5 @@
 # Domain G: Workforce & Culture
 
-<span class="domain-ref" style="color: #f43f5e;">TALENT PIPELINE</span>
-
 **Focus:** Human capacity, capability, and culture
 
 **Indicators:** 7 (4 Core, 3 Enhancement)
