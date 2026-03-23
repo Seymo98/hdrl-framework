@@ -1,8 +1,8 @@
 site_name: HDRL Framework
 site_description: Health Data Readiness Level Assessment Framework — A maturity model for health data systems across the UK's devolved nations
-site_url: https://seymo98.github.io/hdrl-framework/
-repo_url: https://github.com/Seymo98/hdrl-framework
-repo_name: Seymo98/hdrl-framework
+site_url: https://opl-advisory.github.io/hdrl-framework/
+repo_url: https://github.com/OPL-Advisory/hdrl-framework
+repo_name: OPL-Advisory/hdrl-framework
 
 theme:
   name: material
