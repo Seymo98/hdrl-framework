@@ -1,7 +1,5 @@
 # Domain E: Public Trust & Transparency
 
-<span class="domain-ref" style="color: #10b981;">SOCIAL LICENCE</span>
-
 **Focus:** Engagement, transparency, and social licence
 
 **Indicators:** 7 (6 Core, 1 Enhancement)
