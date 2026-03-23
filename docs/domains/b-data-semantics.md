@@ -1,7 +1,5 @@
 # Domain B: Data Semantics & Quality
 
-<span class="domain-ref" style="color: #06b6d4;">PRODUCT USABILITY</span>
-
 **Focus:** Standardisation, documentation, and quality assurance
 
 **Indicators:** 6 (4 Core, 2 Enhancement)
